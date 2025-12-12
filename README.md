@@ -1,4 +1,4 @@
-# OS_Project
+# Operating System Project
 
 # CPU Scheduling Algorithms
 
